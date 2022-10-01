@@ -1,6 +1,6 @@
-package com.example.demo.dao;
+package com.web.dao;
 
-import com.example.demo.model.User;
+import com.web.model.User;
 
 import java.util.List;
 
